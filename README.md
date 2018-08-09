@@ -1,6 +1,8 @@
 # TradeLog
 TradeLog for BFA
+
 https://www.curseforge.com/wow/addons/tradelog
+
 This addon is separated from my addon "TheBurningTrade" (here). New version of TheBurningTrade no longger provides the trade log feature. You can use the new TheBurningTrade(version 2.0+) and TradeLog together, or only use the old version of TheBurningTrade.
 
 Features that old TheBurningTrade has :
