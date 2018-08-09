@@ -1,5 +1,5 @@
 # TradeLog
-TradeLog for BFA
+TradeLog by warbaby for BFA
 
 https://www.curseforge.com/wow/addons/tradelog
 
