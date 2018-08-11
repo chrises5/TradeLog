@@ -1039,6 +1039,11 @@
 		</Frames>
 		<Scripts>
 			<OnShow>
+			    self:SetMovable(true);
+			    self:EnableMouse(true);
+			    self:RegisterForDrag("LeftButton");
+			    self:SetScript("OnDragStart", self.StartMoving);
+			    self:SetScript("OnDragStop", self.StopMovingOrSizing);
 				TradeListScrollFrame_Update(self);
 				self:SetFrameLevel(100);
 			</OnShow>
