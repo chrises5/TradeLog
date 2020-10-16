@@ -1,4 +1,4 @@
 # TradeLog
-TradeLog by warbaby for BFA
+TradeLog for Shadowlands
 
 Remove "-master" from the folder name.
